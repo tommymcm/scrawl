@@ -6,6 +6,7 @@ description   = "Diagram as code, with less pain"
 license       = "MIT"
 srcDir        = "src"
 installExt    = @["nim"]
+binDir        = "build"
 bin           = @["scrawl"]
 
 
