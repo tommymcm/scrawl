@@ -4,4 +4,4 @@
 import scrawl/svg
 
 when isMainModule:
-  echo(emitElement(rect()))
+  echo(emit(rect(10, 20)))
